@@ -29,10 +29,4 @@ you will have the channel update hourly.
 | tested and merged   | [Sub Link](https://raw.githubusercontent.com/Use4Free/V2Collector/master/hub/tested/merged.txt)     | all tested links merged in one file |
 
 
-### donation
 
-any type of helping me
-will help me to have hope
-for creating more stuff.
-
-[Donation Link](https://shabane.github.io/donate)
