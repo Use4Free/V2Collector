@@ -1,8 +1,8 @@
-# Kamaji
+# V2Collector
 
 [English](docs/readme_en.md)
 
-![kamaji](https://raw.githubusercontent.com/gitlynx-ir/gitlynx-ir.github.io/main/files/abc3b41b5cf4d0e62c5f878b19962b1c.jpg)
+![kamaji]()
 
 در تلگرام کانال هایی هستند که کانفیگ های
 vpn
